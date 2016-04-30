@@ -20,4 +20,4 @@ Semakin dekat jarak suatu benda ke sensor semakin cepat suara yang akan dihasilk
   [2]: https://github.com/suozar/ARduinojarak-buzz/blob/master/2.jpg
   [3]: https://github.com/suozar/ARduinojarak-buzz/blob/master/3.jpg
   [4]: https://github.com/suozar/ARduinojarak-buzz/blob/master/4.jpg
-  [5]: https://github.com/suozar/ARduinojarak-buzz/blob/master/5.jpg
+  [5]: https://github.com/suozar/ARduinojarak-buzz/blob/master/5.png
